@@ -1,2 +1,2 @@
 # Ejercicios-de-mi-curso
-Ejercicios para practicar
+Ejercicios para practicar Metodos
