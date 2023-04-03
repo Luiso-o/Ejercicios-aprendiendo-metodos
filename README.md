@@ -1,2 +1,2 @@
 # Ejercicios-de-practica
-Ejercicios para practicar Metodos
+Ejercicios  en los que aprendi a trabajar con metodos .
