@@ -1,2 +1,2 @@
-# Ejercicios-de-practica
-Ejercicios  en los que aprendi a trabajar con metodos .
+# Practicando la implementacion de metodos 
+Ejercicios en los que aprendi a trabajar con metodos .
